@@ -10,3 +10,7 @@ qUINT_ssr
 AmbientLight
 Сепия/Sepia
 Ночной режим/Nigth mode
+
+
+
+Видео гайд: https://youtu.be/puydKStpYWw
