@@ -1,3 +1,5 @@
+Для roblox.
+
 C:\Program Files\NVIDIA Corporation | Название роблокса: Eurotrucks2
 
 Мои эффекты:
